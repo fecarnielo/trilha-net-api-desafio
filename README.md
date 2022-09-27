@@ -9,7 +9,7 @@ Construção de um gerenciador de tarefas, onde é possível cadastrar uma lista
 
 Essa lista de tarefas trabalha com o CRUD, ou seja, permite obter os registros, criar, salvar e deletar esses registros.
 
-A sua aplicação é do tipo Web API.
+A aplicação é do tipo Web API.
 
 A classe principal (tarefa) é a seguinte:
 
